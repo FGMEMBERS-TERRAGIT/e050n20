@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Airport/localizer.xml 51.55555 25.282672 10.49 68.32
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 51.55 25.3 -0.02 5.51
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 51.65782 25.2996617 -5.18 329.6
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 51.676065 25.2936267 -5.76 165.4
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 51.69403 25.2877567 -5.74 20.4
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 51.7120867 25.281975 -5.15 298.63
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 51.6582883 25.3010233 -5.24 312.35
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 51.6765333 25.2950683 -5.82 204.76
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 51.6944983 25.2890333 -5.8 30.47
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 51.7123667 25.28325 -5.22 53.59
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 51.66746 25.2977917 -5.6 163.24
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 51.6857033 25.2921783 -5.89 156.67
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 51.70376 25.286055 -5.57 89.02
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 51.6669917 25.296685 -5.55 191.31
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 51.6850483 25.290735 -5.83 2.61
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 51.7032017 25.2848667 -5.52 56.18
+OBJECT_STATIC QIPCO-tower.xml 51.52833745 25.3177457 2.39 128.1
