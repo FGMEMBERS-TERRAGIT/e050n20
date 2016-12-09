@@ -155,3 +155,11 @@ OBJECT_SHARED Models/Airport/emirates-hangar-open.ac 55.3802331 25.2562764 7.24 
 OBJECT_SHARED Models/Airport/emirates-hangar-open.ac 55.38488997 25.2528577 5.03 60
 OBJECT_STATIC OMDB-C.ac 55.35407976 25.2525342 3.33 58.5
 OBJECT_STATIC OMDB-tower.xml 55.3576737 25.2506062 4.24 60
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/B747.xml 55.36000 25.25007 5.02 237.485
+OBJECT_SHARED Models/Aircraft/737virgin.xml 55.36586 25.26037 -25.01 328.76
+OBJECT_SHARED Models/Aircraft/B747.xml 55.35500 25.25262 3.44 237.263
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 55.35709 25.25083 4.06 326.92
+# END dsf2stg
