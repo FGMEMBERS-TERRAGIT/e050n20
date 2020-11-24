@@ -4,3 +4,17 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 52.9475083 25.238708 -7
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 52.9187509 25.1885783 -4.11 347.65
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 52.98242 25.2484267 -3.15 121.25
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 52.9764711 25.2169929 -4.07 78.8
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 52.87728 25.13932 0.00 49.8181
+OBJECT_SHARED Models/lib/lamp10m.xml 52.87696 25.13957 0.74 48.2247
+OBJECT_SHARED Models/lib/lamp10m.xml 52.87593 25.14040 0.83 48.8143
+OBJECT_SHARED Models/lib/lamp10m.xml 52.87579 25.14050 1.02 49.2338
+OBJECT_SHARED Models/lib/lamp10m.xml 52.87847 25.13876 1.04 49.5106
+OBJECT_SHARED Models/lib/lamp10m.xml 52.87837 25.13884 0.60 48.7357
+OBJECT_SHARED Models/lib/SmHangar.ac 52.87841 25.13879 0.60 49.5538
+OBJECT_SHARED Models/lib/office40x25.ac 52.87729 25.13968 0.60 230.042
+OBJECT_SHARED Models/Airport/FGRefuel02.xml 52.87585 25.14044 0.86 230.291
+OBJECT_SHARED Models/lib/HorizTanks2.ac 52.87603 25.14035 1.02 320.23
+# END dsf2stg

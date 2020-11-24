@@ -2,3 +2,9 @@ OBJECT_SHARED Models/Airport/ils.xml 50.140067 26.239279 17.16 14.74
 OBJECT_SHARED Models/Communications/vordme_1.xml 50.140067 26.239278 17.16 180
 OBJECT_SHARED Models/Airport/marker.ac 50.144 26.23005 11.34 180
 OBJECT_SHARED Models/Airport/localizer.xml 50.143014 26.2336 15.84 255.08
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac 50.14519 26.23604 26.62 60.64
+OBJECT_SHARED Models/lib/LongRow.ac 50.14561 26.23669 16.87 60.64
+# END dsf2stg
